@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eugene.</h1>
-<h3 align="center">Frontend developer from Earth.🌍</h3>
-
-- 🦾 Founder at [CLICK METAL](https://click-metal.digital/)
+<h3 align="center">Frontend developer from Earth 🌍</h3>
 
 - ⚙️ Developer at [Star](https://star.global/)
 
